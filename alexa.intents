@@ -1,0 +1,18 @@
+{
+    "intents":
+    [
+        {
+            "intent": "CheckNewShows",
+            "slots": []
+        },
+        {
+            "intent": "WhatNewShows",
+            "slots": []
+        },
+        {
+            "intent": "NewShowInquiry",
+            "slots": [{"name": "Show", "type": "LITERAL"}]
+        }
+    ]
+}
+
